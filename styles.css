@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.octodex {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.octocat {
+
+    display: inline-block;
+    width: 30%;
+    margin-right: 3%;
+}
+
+.octocat > a img {
+  width: 100%;
+  margin-top:15px;
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+}
+
+.authors img {
+  width: 8%;
+  position: relative;
+  top: 7px;
+  border-radius: 2px;
+}
+
+.authors {
+  display: inline;
+  padding: 0;
+}
+
+.authors li {
+  display: inline;
+}
+
+.image-footer {
+  display: block;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 7px;
+
+
+
+
+
+    a:link {
+      color:black;
+    }
+
+    a:visited {
+      color:black;
+    }
+
+
+}
